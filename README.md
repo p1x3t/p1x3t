@@ -16,7 +16,6 @@ Bem-vindo(a) ao meu GitHub ✨
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7D5B8C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kethilydiniz/)
 [![Instagram](https://img.shields.io/badge/Instagram-7D5B8C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kethilydiniz/)
 [![GitHub](https://img.shields.io/badge/GitHub-7D5B8C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/p1x3t)
-[![Gmail](https://img.shields.io/badge/Gmail-7D5B8C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUGMAIL)
 
 </div>
 
