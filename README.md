@@ -1,4 +1,4 @@
-# 💜 Kethily Diniz
+# Kethily Diniz
 
 <div align="center">
 
